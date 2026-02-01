@@ -81,5 +81,5 @@ This option does not seem to be found in the layout, but rather with the search 
     <img src="/assets/img/motorola/moto_background_manager.jpg">
     <figcaption>Allow the app to run in the background.</figcaption>
   </figure>
-
+adb shell /data/app/~~SL4ceQysoAdt-TLxXIlBKA==/moe.shizuku.privileged.api-DG0Zp6fomGdBS5adrsiAGA==/lib/arm64/libshizuku.so
 </div>
